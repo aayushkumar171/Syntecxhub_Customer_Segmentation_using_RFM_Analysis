@@ -13,21 +13,6 @@ Analyze transactional customer data to segment customers into meaningful groups 
 - Provide targeted marketing recommendations
 - Visualize segments using charts or dashboards
 
-## 🗂️ Repository Structure
-```
-customer-segmentation-rfm/
-│
-├── notebooks/
-│   └── Project_1.ipynb           # Data cleaning, RFM calculation, segmentation
-├── data/
-│   ├── raw_transactions.csv      # Raw transactional dataset
-│   └── rfm_segments.csv          # Output: customers with RFM scores & segments
-├── dashboard/
-│   └── RFM_dashboard.pbix        # Power BI / Tableau dashboard (if applicable)
-├── images/
-│   └── project_overview.png      # Project brief / description
-├── requirements.txt              # Python dependencies
-└── README.md
 ```
 
 ## 🛠️ Tools & Technologies
