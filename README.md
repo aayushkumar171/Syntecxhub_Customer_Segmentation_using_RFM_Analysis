@@ -45,7 +45,7 @@ Visual breakdown of customer segments, their share of revenue, and behavior patt
    ```bash
    pip install -r requirements.txt
    ```
-3. Open `notebooks/Project_1.ipynb` in Jupyter Notebook / JupyterLab and run the cells
+3. Open `Jupyter_Notebook/Customer_Segmentation_using_RFM_Analysis.ipynb` in Jupyter Notebook / JupyterLab and run the cells
 4. (Optional) Open the dashboard file in Power BI Desktop / Tableau to explore the visuals
 
 ## 📌 Notes
